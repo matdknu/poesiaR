@@ -1,0 +1,12 @@
+Package: poesiaR
+Title: Título de tu paquete
+Version: 0.0.0.9000
+Authors@R: c(person(given = "TuNombre", family = "TuApellido", role = c("aut", "cre"), email = "tu_email@example.com"))
+Description: Descripción breve del paquete.
+License: MIT + file LICENSE
+Encoding: UTF-8
+RoxygenNote: 7.3.2
+NeedsCompilation: no
+Packaged: 2024-10-13 16:04:57 UTC; matdknu
+Author: TuNombre TuApellido [aut, cre]
+Maintainer: TuNombre TuApellido <tu_email@example.com>
