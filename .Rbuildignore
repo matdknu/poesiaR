@@ -1,1 +1,6 @@
 ^data-raw$
+^LICENSE\.md$
+package-poesia.R
+poesiaR
+poesiaR.Rproj
+scrapp-poemas.R

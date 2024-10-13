@@ -48,5 +48,12 @@ data(poesia_df)
 # Verificar las primeras filas
 head(poesia_df)
 
+usethis::use_mit_license()
+
+
+usethis::use_git()
+
+
+devtools::check()
 
 
