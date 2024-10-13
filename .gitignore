@@ -5,4 +5,4 @@ scrapp-poemas.r
 .httr-oauth
 .DS_Store
 .quarto
-poesia_df.rda
+data/poesia_df.rda
