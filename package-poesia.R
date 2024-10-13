@@ -13,7 +13,7 @@ setwd("/Users/matdknu/Dropbox/social-data-science/Proyectos-R/poesiaR")
 
 # Crea el paquete
 create_package("poesiaR")
-2
+3
 
 
 
@@ -55,13 +55,3 @@ usethis::use_git()
 usethis::use_cran_comments()
 devtools::release()
 
-3
-2
-2
-2
-2
-3
-1
-3
-1
-2
