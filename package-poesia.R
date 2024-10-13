@@ -52,7 +52,7 @@ usethis::use_mit_license()
 
 
 usethis::use_git()
-
+2
 
 devtools::check()
 
