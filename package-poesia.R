@@ -53,16 +53,15 @@ usethis::use_mit_license()
 
 usethis::use_git()
 usethis::use_cran_comments()
-
 devtools::release()
 
 3
-1
-1
-1
 2
 2
-1
-1
+2
 2
 3
+1
+3
+1
+2
